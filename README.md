@@ -1,16 +1,33 @@
-# quizz
+# en_US
+###  Quizz
 
-A new Flutter project.
+This source code is a course project
 
-## Getting Started
+### Is it for me?
 
-This project is a starting point for a Flutter application.
+If you are wondering if something in this code is for you, I say probably not. 
+The code will contain nothing but the basics as it is a project of the first module of a flutter course. This module covers only the initial concepts of the framework and uses some code writing to illustrate the classes.
 
-A few resources to get you started if this is your first Flutter project:
+### Even so, whats is it?
+However, if you are curious about how this app works, here is an overview of it:
+The app will launch and a question will appear on the screen.
+If you answer the question, you will go to the next one.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Course link, if anyone is interested (No, I'm not getting paid for the advertising here. Yet...)](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# pt_BR
+###  Quizz
+
+Esse código fonte é de um projeto de curso.
+
+### Serve para mim?
+
+Se você esta se perguntando se algo nesse código serve de algo para você, eu digo que provavelmente não. O código não conterá nada além do básico, pois é um projeto do primeiro módulo de um curso sobre flutter. Módulo esse que abrange apenas os conceitos iniciais do framework e se utiliza de alguma escrita de código para ilustrar as aulas.
+
+### Mesmo assim, o que é?
+Contudo, se você esta curioso sobre o funcionamento desse app, aqui vai uma descrição geral dele:
+O app sera iniciado e aparecerá uma pergunta na tela. 
+Se você responder a pergunta, irá para a próxima.
+
+- [Link do curso, caso alguem se interesse (não, não estou sendo pago pela propraganda aqui. Ainda....)](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+
