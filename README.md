@@ -1,3 +1,7 @@
+
+- [en_US)](https://github.com/Lucas3995/courseproject.flutter.basicquizz#en_us)
+- [pt_BR)](https://github.com/Lucas3995/courseproject.flutter.basicquizz#pt_br)
+
 # en_US
 ###  Quizz
 
